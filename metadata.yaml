@@ -1,5 +1,8 @@
 _repo: The-Garden-of-Survival_4046
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Blackwood, Algernon
@@ -13,6 +16,8 @@ description: Twins may be similar in outward appearance and share genetic materi
   case in Algernon Blackwood's The Garden of Survival, in which two twin brothers'
   adventures take them to opposite ends of the earth & ndash; though their special
   bond remains intact.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4046#The-Garden-of-Survival
 gutenberg_issued: '2003-05-01'
 gutenberg_type: Text
 identifiers:
